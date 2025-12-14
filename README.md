@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Hanna 🌷🕊️</h1>
 <h3 align="center">A passionate frontend developer working on making the internet a more accessible place for everyone</h3>
 
-- 👨‍💻 All of my projects are available at [hannageb.github.io/portfolio/](hannageb.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [hannageb.github.io/portfolio/](https://hannageb.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
